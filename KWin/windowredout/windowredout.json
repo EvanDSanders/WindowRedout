@@ -1,0 +1,10 @@
+{
+    "KPlugin": {
+        "Description": "Per-window color temperature, driven by the WindowRedout app",
+        "Category": "Appearance",
+        "EnabledByDefault": false,
+        "Id": "windowredout",
+        "License": "GPL",
+        "Name": "WindowRedout"
+    }
+}

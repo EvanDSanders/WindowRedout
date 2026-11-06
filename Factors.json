@@ -1,0 +1,65 @@
+[
+    {
+        "AppDetect": {
+            "name": "Blender"
+        },
+        "Dark": 0.8,
+        "Light": 0.55
+    },
+    {
+        "AppDetect": {
+            "name": "Godot Engine"
+        },
+        "Dark": 1.0,
+        "Light": 0.9
+    },
+    {
+        "AppDetect": {
+            "name": "(DEBUG)"
+        },
+        "Dark": 1.0,
+        "Light": 0.7
+    },
+    {
+        "AppDetect": {
+            "name": "Cursor"
+        },
+        "Dark": 1.0,
+        "Light": 0.8
+    },
+    {
+        "AppDetect": {
+            "name": "Visual Studio Code"
+        },
+        "Dark": 1.0,
+        "Light": 0.8
+    },
+    {
+        "AppDetect": {
+            "name": "GIMP"
+        },
+        "Dark": 1.0,
+        "Light": 0.7
+    },
+    {
+        "AppDetect": {
+            "name": "Change Foreground Color"
+        },
+        "Dark": 1.0,
+        "Light": 0.4
+    },
+    {
+        "AppDetect": {
+            "name": "Colorize"
+        },
+        "Dark": 1.0,
+        "Light": 0.4
+    },
+    {
+        "AppDetect": {
+            "name": "kubuntu on Q"
+        },
+        "Dark": 1.0,
+        "Light": 0.75
+    }
+]
